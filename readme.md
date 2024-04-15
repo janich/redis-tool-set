@@ -60,6 +60,7 @@ Table of Contents
 | [redis-windows](https://github.com/ServiceStack/redis-windows) | 2400 | C | Vagrant redis configuration and the binary releases of MS Open Tech redis port of windows |
 | [Tendis](https://github.com/tencent/Tendis) | 717 | C | a high-performance distributed storage system fully compatible with the Redis protocol. Using RocksDB as storage engine. All data is stored in RocksDB in a specific format, supporting PB-level storage capacity. |
 | [dragonfly](https://github.com/dragonflydb/dragonfly) | 18900 | C++ | An in-memory data store built for modern application workloads. Fully compatible with Redis and Memcached APIs, Dragonfly requires no code changes to adopt. Compared to legacy in-memory datastores, Dragonfly delivers 25X more throughput, higher cache hit rates with lower tail latency, and effortless vertical scalability. |
+| [redka](https://github.com/nalgeon/redka) | 410(until 2024/04/15) | Go | Redis re-implemented with SQLite | 
 
 ---
 ## Redis Proxy
@@ -265,4 +266,5 @@ Table of Contents
  >- add [rsedis](https://github.com/seppo0010/rsedis) on 2024/02/20
  >- add [redis_builder](https://github.com/acl-dev/acl/tree/master/app/redis_tools/redis_builder) and [Acl redis Client](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/samples/redis) on 2024/02/22
  >- add [garnet](https://github.com/microsoft/garnet) on 2024/03/21
+ >- add [redka](https://github.com/nalgeon/redka) on 2024/04/15
 
