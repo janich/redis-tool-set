@@ -127,6 +127,7 @@ Table of Contents
 | [redis rdb file splitter](http://blog.nosqlfan.com/html/4092.html) | | | In this Chinese blog you will get a script to split Redis rdb db file. |
 | [redis-migration](https://github.com/helifu/redis-migration) | 52 | C |  redis-migration is a fast, light-weight migration tool for redis. Just add redis-migration.c to the redis sources. We scale out our redis clusters by this tool. Star: 35(until 2017/08/22). |
 | [Bifrost](https://github.com/brokercap/Bifrost) | 1700(until 20231203) |  Go | transfer data from MySQL,MariaDB,kafka to Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka |
+| [redissyncer-server](https://github.com/TraceNature/redissyncer-server) | 637(until 20241015) | Java | redissyncer is a redis synchronization tool, used in redis single instance and cluster synchronization | 
 
 ---
 ## Redis Monitor
@@ -267,4 +268,5 @@ Table of Contents
  >- add [redis_builder](https://github.com/acl-dev/acl/tree/master/app/redis_tools/redis_builder) and [Acl redis Client](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/samples/redis) on 2024/02/22
  >- add [garnet](https://github.com/microsoft/garnet) on 2024/03/21
  >- add [redka](https://github.com/nalgeon/redka) on 2024/04/15
+ >- add [redissyncer-server](https://github.com/TraceNature/redissyncer-server)  on 2024/10/15
 
